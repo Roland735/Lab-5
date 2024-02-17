@@ -1,0 +1,3 @@
+Apple;My Self;20
+Vitamins Water;Oshee;80
+Bread;Ludwick;50
